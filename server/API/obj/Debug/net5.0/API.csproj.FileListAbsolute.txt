@@ -25,7 +25,6 @@ C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\API.dll
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\ref\API.dll
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\API.pdb
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\~sourcecode\ser-ecommerce\server\API\bin\Debug\net5.0\API.StaticWebAssets.xml
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Pack.cache
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\~sourcecode\ser-ecommerce\server\API\obj\Debug\net5.0\staticwebassets\msbuild.build.API.props
