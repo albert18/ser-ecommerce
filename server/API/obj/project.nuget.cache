@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cR0tBW+o25OMHydxYNxCVIHVkAt+cv+lTokzgzDQ3LX1y28PSJsdQjC/X8w+EL7oojPY5V5rGMN93Ss4jAc/6A==",
+  "dgSpecHash": "BoMCMeABZQWPCPTgpAlAl6jpI6qB9sVfijZ/u2HQIEm/WpzSM/VZpPeiV+qCwchWv1c/FiHtignvhrzo+OIOVA==",
   "success": true,
   "projectFilePath": "C:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\caps1\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\caps1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\caps1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\caps1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\caps1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\caps1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
