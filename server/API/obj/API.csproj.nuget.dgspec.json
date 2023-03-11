@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj": {}
+    "c:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj": {
+    "c:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj",
+        "projectUniqueName": "c:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj",
+        "projectPath": "c:\\~sourcecode\\ser-ecommerce\\server\\API\\API.csproj",
         "packagesPath": "C:\\Users\\caps1\\.nuget\\packages\\",
-        "outputPath": "C:\\~sourcecode\\ser-ecommerce\\server\\API\\obj\\",
+        "outputPath": "c:\\~sourcecode\\ser-ecommerce\\server\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
